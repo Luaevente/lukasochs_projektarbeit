@@ -1,0 +1,20 @@
+//Eigenes Farbschema
+$primary-color: #323E5C;
+$secondary-color: #7C859C;
+$accent-color: #A4B3DB;
+$light-color: #B1AB9C;
+$dark-color: #5C5032;
+$success-color: #445B5C;
+
+$theme-colors: (
+        "primary":    $primary-color,
+        "secondary":  $secondary-color,
+        "success":    $success-color,
+        "dark":       $dark-color,
+        "accent":    $accent-color,
+
+        "bg-primary":  $primary-color,
+        "bg-light":    $secondary-color
+);
+
+@import "./node_modules/bootstrap/scss/bootstrap";
