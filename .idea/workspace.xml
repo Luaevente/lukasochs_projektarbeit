@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c432dc2b-2463-48f5-8d0f-d844f939f13a" name="Changes" comment="Veränderung Platzhalter Bilder nicht angezeigt auf Handy" />
+    <list default="true" id="c432dc2b-2463-48f5-8d0f-d844f939f13a" name="Changes" comment="7- Auskommentieren Insta &amp; Whatsapp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateGUIE.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateGUIE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dienstleistungen.html" beforeDir="false" afterPath="$PROJECT_DIR$/dienstleistungen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Color-Theme.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gemischte_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gemischte_nachher2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_nachher2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gemischte_vorher1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_vorher1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik 3 (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik 3 (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik 3 (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik 3 (2).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik2_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kealtetechnik2_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kealtetechnik2_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/platzhalter1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/platzhalter1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/platzhalter2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/platzhalter2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portrait-platzhalter2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portrait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler2_nacher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler2_nacher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler2_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler3_nah.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_nah.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spengler4_Quadratisch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler4_Quadratisch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik1_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik1_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik2_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik2_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik2_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik3_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik3_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik3_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik3_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik4_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik4_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik4_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik4_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik5_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik5_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik5_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik5_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_waehrend.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_waehrend.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik7_nachher.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik7_nachher.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik8_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik8_nachher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik8_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik8_vorher.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/waermetechnik9_carousel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lukaochs_projektbericht.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/projekte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ueber.html" beforeDir="false" afterPath="$PROJECT_DIR$/ueber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$kaochs_projektbericht.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +93,9 @@
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -92,7 +149,7 @@
       <workItem from="1738235236807" duration="64000" />
       <workItem from="1738235315876" duration="12500000" />
       <workItem from="1738619815354" duration="57549000" />
-      <workItem from="1738941603384" duration="5526000" />
+      <workItem from="1738941603384" duration="9815000" />
     </task>
     <task id="LOCAL-00001" summary="Veränderung Platzhalter Bilder nicht angezeigt auf Handy">
       <option name="closed" value="true" />
@@ -102,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738954955696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="7- Auskommentieren Insta &amp; Whatsapp">
+      <option name="closed" value="true" />
+      <created>1738955273308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738955273308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Veränderung Platzhalter Bilder nicht angezeigt auf Handy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Veränderung Platzhalter Bilder nicht angezeigt auf Handy" />
+    <MESSAGE value="7- Auskommentieren Insta &amp; Whatsapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="7- Auskommentieren Insta &amp; Whatsapp" />
   </component>
 </project>
