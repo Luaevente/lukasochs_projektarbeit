@@ -6,58 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c432dc2b-2463-48f5-8d0f-d844f939f13a" name="Changes" comment="7- Auskommentieren Insta &amp; Whatsapp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateGUIE.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateGUIE.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dienstleistungen.html" beforeDir="false" afterPath="$PROJECT_DIR$/dienstleistungen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Color-Theme.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/carousel-platzhhalter3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gemischte_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gemischte_nachher2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_nachher2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gemischte_vorher1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gemischte_vorher1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik 3 (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik 3 (1).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik 3 (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik 3 (2).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kaeltetechnik2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kaeltetechnik2_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kealtetechnik2_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kealtetechnik2_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/platzhalter1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/platzhalter1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/platzhalter2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/platzhalter2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait-platzhalter2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portrait.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler2_nacher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler2_nacher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler2_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler3_nah.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_nah.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler3_vorher3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler3_vorher3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spengler4_Quadratisch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spengler4_Quadratisch.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik1_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik1_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik2_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik2_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik2_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik2_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik3_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik3_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik3_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik3_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik4_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik4_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik4_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik4_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik5_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik5_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik5_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik5_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik6_waehrend.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik6_waehrend.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik7_nachher.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik7_nachher.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik8_nachher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik8_nachher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik8_vorher.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/waermetechnik8_vorher.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/waermetechnik9_carousel.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lukaochs_projektbericht.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/projekte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ueber.html" beforeDir="false" afterPath="$PROJECT_DIR$/ueber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$kaochs_projektbericht.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,23 +60,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/oooch/Dropbox/Unterlagen/Studium/1-GUIE/lukaochs_projektarbeit",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "watcher.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oooch/Dropbox/Unterlagen/Studium/1-GUIE/lukaochs_projektarbeit&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\oooch\Dropbox\Unterlagen\Studium\1-GUIE\lukaochs_projektarbeit" />
@@ -149,7 +103,8 @@
       <workItem from="1738235236807" duration="64000" />
       <workItem from="1738235315876" duration="12500000" />
       <workItem from="1738619815354" duration="57549000" />
-      <workItem from="1738941603384" duration="9815000" />
+      <workItem from="1738941603384" duration="11800000" />
+      <workItem from="1739643745722" duration="4817000" />
     </task>
     <task id="LOCAL-00001" summary="Veränderung Platzhalter Bilder nicht angezeigt auf Handy">
       <option name="closed" value="true" />
