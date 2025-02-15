@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c432dc2b-2463-48f5-8d0f-d844f939f13a" name="Changes" comment="7- Auskommentieren Insta &amp; Whatsapp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dienstleistungen.html" beforeDir="false" afterPath="$PROJECT_DIR$/dienstleistungen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/projekte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ueber.html" beforeDir="false" afterPath="$PROJECT_DIR$/ueber.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,7 @@
       <workItem from="1738235315876" duration="12500000" />
       <workItem from="1738619815354" duration="57549000" />
       <workItem from="1738941603384" duration="11800000" />
-      <workItem from="1739643745722" duration="4817000" />
+      <workItem from="1739643745722" duration="5429000" />
     </task>
     <task id="LOCAL-00001" summary="Veränderung Platzhalter Bilder nicht angezeigt auf Handy">
       <option name="closed" value="true" />
