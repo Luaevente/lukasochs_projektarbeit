@@ -16,4 +16,6 @@ $theme-colors: (
         "bg-light":    $light-color
 );
 
+--bs-navbar-color: #FFFFFFF;
+
 @import "./node_modules/bootstrap/scss/bootstrap";
